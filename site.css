@@ -204,5 +204,13 @@ a.fill-darken0:hover  { background-color:rgba(0,0,0,0.15); }
 @media only screen and (max-width:640px) {
   .sidebar, .content { width:100%; }
   .sidebar { padding:0; }
-  header .limiter { padding:120px 0 0; }
+  header .limiter { padding:220px 50 50; }
+}
+
+.navbar-button {
+  padding: 5px 20px;
+  text-decoration: none;
+}
+.navbar-button:hover {
+  background-color:#1e789f;
 }
