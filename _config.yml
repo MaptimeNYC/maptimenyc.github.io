@@ -1,10 +1,11 @@
-baseurl: /starter
+baseurl:
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
-github_org: maptime
+repo: maptimenyc.github.io
+github_org: maptimenyc
 maptime:
-  chapter: Chapter name
-  twitter: TwitterHandle
+  chapter: Maptime NYC
+  twitter: MaptimeNYC
   #disqus: YOUR DISQUS USERNAME
+highlighter: pygments
