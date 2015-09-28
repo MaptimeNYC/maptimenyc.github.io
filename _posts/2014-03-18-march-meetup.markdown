@@ -12,9 +12,11 @@ Great turn out for the March meetup at We Work!
 * [Pelias](https://github.com/mapzen/pelias)
 * [Open Refine / Google Refine](http://is.gd/refine)
 
-###Summary: 
-#### Presentation on Samsung's new geocoder Pelias
-##### by John Crepezzi [@seejohnrun](https://twitter.com/seejohnrun)
+###Summary:  
+
+**Presentation on Samsung's new geocoder Pelias by  
+John Crepezzi [@seejohnrun](https://twitter.com/seejohnrun)**
+
 
 * the name is Pelias: "The Search Based Reverse-Geocoder"
 * it's open source & built on open data

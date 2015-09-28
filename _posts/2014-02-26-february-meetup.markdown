@@ -13,12 +13,12 @@ Things we talked about:
 * [Overpass turbo][overpass-turbo]
 * CartoDB, PLUTO maps
 * OpenRefine
-* MAPublisher for Adobe Illustrator
+* MAPublisher for Adobe Illustrator  
 
-[osm-nyc-buildings]: https://github.com/osmlab/nycbuildings/
-[overpass-turbo]: http://overpass-turbo.eu/
-
-Summary:
+[osm-nyc-buildings]: https://github.com/osmlab/nycbuildings/  
+[overpass-turbo]: http://overpass-turbo.eu/  
+    
+### Summary:
 
 Opened the session with a quick introduction to what Maptime was where it comes from (Stamen) and what other cities were doing. 
 

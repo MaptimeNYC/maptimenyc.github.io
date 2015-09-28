@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "August 5th Meetup"
+title: "Return of the Creature from Null Island"
 date: 2014-08-6 13:00:00
 categories: maptime nyc events
 ---
-## Return of the Creature from Null Island
+
 Hi! We didn't really document a lot of things this summer. Which is too bad since those were the Maptimes where we learned a bunch about time travel and stuff. ¯\_(ツ)_/¯ Sorry. 
 
 We've been trying this cool new thing with our Maptime structure where we start the evening with a short introductory tutorial through a specific tool, followed by breakouts to work on other projects or continue with the tutorial.( Last week Andrew from CartoDB did one, and it was great). This week we were lucky to have [Derek Watkins](http://dwtkns.com/) doing a talk on [D3](http://d3js.org). Given how easily D3 lends itself to complexity, this talk was mostly going over how D3 works in general and how it handles geospatial data (with an aside into the difference between topoJSON and geoJSON). 
@@ -15,7 +15,7 @@ Some other projects that were discussed included:
 
 - We had a problem that seems like it should be easy to solve but somehow totally blew our minds. Martin is an artist working on a project where he walks the perimeters of islands. He wants to also walk the longest and widest distances of islands. Figuring out the longest distance between two points in Manhattan shouldn't be complicated, right? How ahs this not already been StackExchanged? It hasn't. Toward the end of the evening we realized that a routing tool rather than weird PostGIS calculations, might be the easiest way to do this. 
 
-## Resources
+### Resources
 
 - Will add Derek's talk materials once they're online. 
 - In the meantime here's a [really great D3 tutorial book](http://alignedleft.com/tutorials/d3) that Derek and JD recommended. 
