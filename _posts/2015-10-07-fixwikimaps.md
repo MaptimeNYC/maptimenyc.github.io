@@ -1,6 +1,7 @@
 ---
 layout: event
 category: event
-title: maptoberfix
+title: Collaborative Cartography Night-FixWikiMaps
 rsvp: http://meetup.com/Maptime-NYC/events/
 ---
+
