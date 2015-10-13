@@ -27,7 +27,8 @@ In the Parishes group, the data available was the parish polygons, the cities, t
 
 ####Top Ten Populous Cities in the USA Map  
 
-...text summary and code snippets...
+...text summary and code snippets...  
+
 *Results*:  
 ![](/img/2015-10-07/top-ten-us-populous-cities.png)
 
