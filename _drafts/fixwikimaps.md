@@ -28,15 +28,30 @@ In the Parishes group, the data available was the parish polygons, the cities, t
 ####Top Ten Populous Cities in the USA Map  
 
 ...text summary and code snippets...  
+
+######Process  
+Reprojected to Albers Equal Area Conic for better representation of our states' data.  
+```sql
+SELECT 
+cartodb_id, 
+ST_Transform(the_geom, 2163) AS the_geom_webmercator,
+postal
+FROM ne_50m_admin_1_states_provinces_lakes
+WHERE admin IN ('United States of America');
+
+```
+Tailored label placement for fine-tuned display using CartoCSS.  
 ```css
 /* We created custom label placement by hard coding x, y positions for each city */
-[name='Philadelphia'] {
-  text-dy:5;
-  text-dx: 5;
+#popuplousCities::labels {
+  ...
+    [name='Philadelphia'] {
+      text-dy:5;
+      text-dx: 5;
 }
 ```
 
-*Results*:  
+######Results  
 ![](/img/2015-10-07/top-ten-us-populous-cities.png)
 
 We then got together and had a brief discussion of the adventure, determining it was a great way to get to know mapping together. 
