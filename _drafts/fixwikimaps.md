@@ -28,6 +28,13 @@ In the Parishes group, the data available was the parish polygons, the cities, t
 ####Top Ten Populous Cities in the USA Map  
 
 ...text summary and code snippets...  
+```css
+/* We created custom label placement by hard coding x, y positions for each city */
+[name='Philadelphia'] {
+  text-dy:5;
+  text-dx: 5;
+}
+```
 
 *Results*:  
 ![](/img/2015-10-07/top-ten-us-populous-cities.png)
