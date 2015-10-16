@@ -8,4 +8,4 @@ maptime:
   chapter: Maptime NYC
   twitter: MaptimeNYC
   #disqus: YOUR DISQUS USERNAME
-highlighter: pygments
+highlighter: rouge
