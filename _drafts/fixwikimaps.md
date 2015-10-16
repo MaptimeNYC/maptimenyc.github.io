@@ -6,7 +6,7 @@ rsvp: http://www.meetup.com/MaptimeNYC/events/225740734/
 ---
 
 ####Takeaways  
->1.  Hacking on Maps is fun.  
+>1.  Working together to make a map is fun.  Many skills go into creating a map, which means there's room (and need!) for all kinds of contributions.
 >2.  
 >3.  
 >4.  (something about difficulty in getting maps to SVG?)  
